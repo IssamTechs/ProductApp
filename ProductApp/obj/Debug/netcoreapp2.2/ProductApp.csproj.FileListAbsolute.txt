@@ -1,0 +1,13 @@
+D:\TFS\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.deps.json
+D:\TFS\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.json
+D:\TFS\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.runtimeconfig.dev.json
+D:\TFS\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.dll
+D:\TFS\ProductApp\bin\Debug\netcoreapp2.2\ProductApp.pdb
+D:\TFS\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.csproj.CoreCompileInputs.cache
+D:\TFS\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cache
+D:\TFS\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorAssemblyInfo.cs
+D:\TFS\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfoInputs.cache
+D:\TFS\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.AssemblyInfo.cs
+D:\TFS\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.RazorTargetAssemblyInfo.cache
+D:\TFS\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.dll
+D:\TFS\ProductApp\obj\Debug\netcoreapp2.2\ProductApp.pdb
