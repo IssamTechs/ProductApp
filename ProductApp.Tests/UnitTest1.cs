@@ -7,10 +7,10 @@ using Xunit;
 
 namespace ProductApp.Tests
 {
-    public class UnitTest1
+    public class EmployeesControllerTest
     {
         [Fact]
-        public void Test1()
+        public void Test_Get()
         {
             var controller = new EmployeesController(new Services.EmployeeService());
             var result = controller.Get() as IEnumerable<Employee>;
